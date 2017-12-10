@@ -41,3 +41,9 @@ inserting data
 quite to escape 
 
 --------------
+
+Laravel Route List 
+------------------
+php artisan route:list
+
+
