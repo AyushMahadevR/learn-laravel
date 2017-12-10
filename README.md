@@ -23,3 +23,14 @@ php artisan make:model Post -m
 migrate database 
 ----------------
 php artisan migrate 
+
+tinker
+------
+php artisan tinker 
+Access the model name --> App\Post::count() [to count the posts]
+## new data requires new instances ##
+Creating new instance --> $post = new App\Post();
+inserting data -->
+ $post->title = "Post one ";
+ $post->body = "This is a body";
+ $post->save();   (creates the entry in the database)
