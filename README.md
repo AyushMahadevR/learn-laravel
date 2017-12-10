@@ -13,3 +13,9 @@ npm run watch -> to have active compliation of resources (instead of run dev)
 creating controller 
 --------------------
 php artisan make:controller PostsController
+
+creating model
+--------------
+php artisan make:model Post -m
+
+-m (for creating migration for the database to add tables) 
