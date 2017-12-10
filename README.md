@@ -13,6 +13,8 @@ npm run watch -> to have active compliation of resources (instead of run dev)
 creating controller 
 --------------------
 php artisan make:controller PostsController
+ or
+php artisan make:controller PostsController --resource (loads up the basic function names involved in CRUD)
 
 creating model
 --------------
