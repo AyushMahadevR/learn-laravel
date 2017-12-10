@@ -19,3 +19,7 @@ creating model
 php artisan make:model Post -m
 
 -m (for creating migration for the database to add tables) 
+
+migrate database 
+----------------
+php artisan migrate 
