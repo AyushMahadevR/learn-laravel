@@ -15,6 +15,7 @@
             <li><a href="/lsapp/public/">Home</a></li>
             <li><a href="/lsapp/public/about">About</a></li>
             <li><a href="/lsapp/public/services">Services</a></li>
+            <li><a href="/lsapp/public/posts">Posts</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
